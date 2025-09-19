@@ -1,1 +1,1 @@
-The Odin Project is a free, open-source online curriculum for learning web development. It covers HTML, CSS, JavaScript, Git, Node.js, databases, and more, with hands-on projects and resources.
+The Odin Project is a free, open-source online curriculum for learning web development. It covers HTML, CSS, JavaScript, Git, Node.js, databases, and more, with hands-on projects and resources. So yeah
